@@ -1,0 +1,11 @@
+.codelite
+*.workspace
+Makefile
+tags
+
+Practice/
+
+*/Debug/
+*/*.mk
+*/*.project
+*/*.txt
